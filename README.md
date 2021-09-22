@@ -2,12 +2,12 @@
 ### Instructor: Yizhou Sun
 - Lecture Time: Tuesday/Thursday 10-11:50am
 - classroom: WG Young CS24
-- Office hour: 
+- Office hours: Monday 2-3 and Tuesday 4:15-5:00 @ zoom
 
 ### TAs:
-- Zongyue Qin (qinzongyue at cs.ucla.edu, Monday 9-11am @ BH 3551)
-- Yewen Wang (wyw10804@gmail.com, Wednesday 9-10am @ Boelter Hall 3551 Conference Room, 10-11am @ [zoom](https://ucla.zoom.us/j/94487002375?pwd=MEF4aEQ2eG5DTjJyQUpWZngrMXV3UT09))
-- Shichang Zhang (myfirstname@cs.ucla.edu, Friday 10am-12pm @ BH 3551 Conference Room (May change to the TA office BH 3256 once it is open))
+- Zongyue Qin (qinzongyue at cs.ucla.edu), office hours: Monday 9-11am @ BH 3551)
+- Yewen Wang (wyw10804@gmail.com), office hours: Wednesday 9-10am @ Boelter Hall 3551 Conference Room, 10-11am @ [zoom](https://ucla.zoom.us/j/94487002375?pwd=MEF4aEQ2eG5DTjJyQUpWZngrMXV3UT09)
+- Shichang Zhang (myfirstname@cs.ucla.edu), office hours: Friday 10am-12pm @ BH 3551 Conference Room (May change to the TA office BH 3256 once it is open)
 
 
 ## Course Description
