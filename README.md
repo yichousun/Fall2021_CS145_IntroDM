@@ -7,7 +7,7 @@
 ### TAs:
 - Zongyue Qin (email, office hour, location)
 - Yewen Wang (wyw10804@gmail.com, Wednesday 9-10am @ Boelter Hall 3551 Conference Room, 10-11am @ [zoom](https://ucla.zoom.us/j/94487002375?pwd=MEF4aEQ2eG5DTjJyQUpWZngrMXV3UT09))
-- Shichang Zhang
+- Shichang Zhang (myfirstname@cs.ucla.edu, Friday 10am-12pm @ BH 3551 Conference Room (May change to the TA office BH 3256 once it is open))
 
 
 ## Course Description
