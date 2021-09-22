@@ -23,7 +23,7 @@ This course introduces basic concepts, algorithms, and techniques of data mining
 - Gain initial experience in conducting research on data mining
 
 ## Grading
--	Homework: 30%
+-	Homework: 35%
 -	Midterm exam: 20%
 -	Final exam: 15%
 -	Course project: 25%
