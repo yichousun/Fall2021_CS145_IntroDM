@@ -29,6 +29,16 @@ This course introduces basic concepts, algorithms, and techniques of data mining
 -	Course project: 25%
 -	Participation: 5%
 
+*All the deadlines are 11:59PM (midnight) of the due dates.
+
+*Late submission policy: you will get original score * <a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{1}(t<=24)e^{-(ln(2)/12)*t}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{1}(t<=24)e^{-(ln(2)/12)*t}" title="\mathbf{1}(t<=24)e^{-(ln(2)/12)*t}" /></a>, if you are t hours late.
+
+*No copying or sharing of homework!
+
+- You can discuss general challenges and ideas with others.
+- Suspicious cases will be reported to The Office of the Dean of Students.
+
+
 ## Q & A
 -	We will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TAs, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza.
 -	Tips: Answering other students' questions will increase your participation score.
