@@ -40,3 +40,24 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 ## Tentative Schedule
 | Week | Date | Topic | Further Reading | Discussion Session| Homework| Course Project|
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| Week 1 | 9/23 | |||||
+| Week 2 | | |||||
+| Week 2 | | |||||
+| Week 3 | | |||||
+| Week 3 | | |||||
+| Week 4 | | |||||
+| Week 4 | | |||||
+| Week 5 | | |||||
+| Week 5 | | |||||
+| Week 6 | | |||||
+| Week 6 | | |||||
+| Week 7 | | |||||
+| Week 7 | | |||||
+| Week 8 | | |||||
+| Week 8 | | |||||
+| Week 9 | | |||||
+| Week 9 | | |||||
+| Week 10 | | |||||
+| Week 10 | | |||||
+| Week 11 | | |||||
+
