@@ -6,7 +6,7 @@
 
 ### TAs:
 - Zongyue Qin (qinzongyue at cs.ucla.edu), office hours: Monday 9-11am @ BH 3551)
-- Yewen Wang (wyw10804@gmail.com), office hours: Wednesday 9-10am @ BH 3551 Conference Room, 10-11am @ [zoom](https://ucla.zoom.us/j/94487002375?pwd=MEF4aEQ2eG5DTjJyQUpWZngrMXV3UT09)
+- Yewen Wang (wyw10804@gmail.com), office hours: Wednesday 9-10am @ Boelter Hall 3551 Conference Room, 10-11am @ [zoom](https://ucla.zoom.us/j/94487002375?pwd=MEF4aEQ2eG5DTjJyQUpWZngrMXV3UT09)
 - Shichang Zhang (myfirstname@cs.ucla.edu), office hours: Friday 10am-12pm @ BH 3551 Conference Room (May change to the TA office BH 3256 once it is open)
 
 
@@ -50,24 +50,25 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 ## Tentative Schedule
 | Week | Date | Topic | Further Reading | Discussion Session| Homework| Course Project|
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| Week 1 | 9/23 | |||||
-| Week 2 | | |||||
-| Week 2 | | |||||
-| Week 3 | | |||||
-| Week 3 | | |||||
-| Week 4 | | |||||
-| Week 4 | | |||||
-| Week 5 | | |||||
-| Week 5 | | |||||
-| Week 6 | | |||||
-| Week 6 | | |||||
-| Week 7 | | |||||
-| Week 7 | | |||||
-| Week 8 | | |||||
-| Week 8 | | |||||
-| Week 9 | | |||||
-| Week 9 | | |||||
-| Week 10 | | |||||
-| Week 10 | | |||||
-| Week 11 | | |||||
-
+| Week 0 |9/23 | |||||
+| Week 1 |9/28 | |||||
+| Week 1 |9/30 | |||||
+| Week 2 |10/5 | |||||
+| Week 2 |10/7 | |||||
+| Week 3 |10/12| |||||
+| Week 3 |10/14| |||||
+| Week 4 |10/19 | |||||
+| Week 4 |10/21 | |||||
+| Week 5 |10/26 | |||||
+| Week 5 |10/28 | |||||
+| Week 6 |11/2 | |||||
+| Week 6 |11/4 | |||||
+| Week 7 |11/9 | |||||
+| Week 7 |11/11 |**Veterans Day holiday (No Class)** |||||
+| Week 8 |11/16 | |||||
+| Week 8 |11/18 | |||||
+| Week 9 |11/23 | |||||
+| Week 9 |11/25 |**Thanksgiving holiday (No Class)** |||||
+| Week 10 |11/30 | |||||
+| Week 10 |12/2 | |||||
+| Week 11 | |Final |||||
