@@ -40,7 +40,8 @@ This course introduces basic concepts, algorithms, and techniques of data mining
 
 
 ## Q & A
--	We will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TAs, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza.
+-	We will be using [Piazza](piazza.com/ucla/fall2021/cs145) for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TAs, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza.
+-	Sign up Piazza here: [piazza.com/ucla/fall2021/cs145](piazza.com/ucla/fall2021/cs145)
 -	Tips: Answering other students' questions will increase your participation score.
 
 ## Academic Integrity Policy
