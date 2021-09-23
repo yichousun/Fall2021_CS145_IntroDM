@@ -50,7 +50,7 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 ## Tentative Schedule
 | Week | Date | Topic | Further Reading | Discussion Session| Homework| Course Project|
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| Week 0 |9/23 |Introduction and Know Your Data|||||
+| Week 0 |9/23 |Introduction [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2020Fall_CS145/Slides/1Intro.pdf) and Know Your Data [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2020Fall_CS145/Slides/2Data_Exploration.pdf)|||||
 | Week 1 |9/28 |Linear Regression and Logistic Regression|||||
 | Week 1 |9/30 |Tree-based Models|||||
 | Week 2 |10/5 |Neural Networks |||||
