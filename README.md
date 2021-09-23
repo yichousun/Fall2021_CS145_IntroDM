@@ -51,7 +51,7 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week | Date | Topic | Further Reading | Discussion Session| Homework| Course Project|
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | Week 0 |9/23 |Introduction and Know Your Data|||||
-| Week 1 |9/28 |Probablitisic Models|||||
+| Week 1 |9/28 |Probabilistic Models|||||
 | Week 1 |9/30 |Tree-based Models|||||
 | Week 2 |10/5 |Neural Networks |||||
 | Week 2 |10/7 |Practical Issues of Classification|||||
