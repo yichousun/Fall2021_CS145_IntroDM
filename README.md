@@ -50,14 +50,14 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 ## Tentative Schedule
 | Week | Date | Topic | Further Reading | Discussion Session| Homework| Course Project|
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| Week 0 |9/23 | |||||
-| Week 1 |9/28 | |||||
-| Week 1 |9/30 | |||||
-| Week 2 |10/5 | |||||
-| Week 2 |10/7 | |||||
-| Week 3 |10/12| |||||
-| Week 3 |10/14| |||||
-| Week 4 |10/19 | |||||
+| Week 0 |9/23 |Introduction and Know Your Data|||||
+| Week 1 |9/28 |Probablitisic Models|||||
+| Week 1 |9/30 |Tree-based Models|||||
+| Week 2 |10/5 |Neural Networks |||||
+| Week 2 |10/7 |Practical Issues of Classification|||||
+| Week 3 |10/12|K-Means |||||
+| Week 3 |10/14|Mixture Models |||||
+| Week 4 |10/19 |Practical Issues of Clustering|||||
 | Week 4 |10/21 | |||||
 | Week 5 |10/26 | |||||
 | Week 5 |10/28 | |||||
