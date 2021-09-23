@@ -5,7 +5,7 @@
 - Office hours: Monday 2-3 and Tuesday 4:15-5:00 @ zoom
 
 ### TAs:
-- Zongyue Qin (qinzongyue at cs.ucla.edu), office hours: Monday 9-11am @ BH 3551)
+- Zongyue Qin (qinzongyue at cs.ucla.edu), office hours: Monday 9-11am @ BH 3551 (row M)
 - Yewen Wang (wyw10804@gmail.com), office hours: Wednesday 9-10am @ Boelter Hall 3551 Conference Room, 10-11am @ zoom
 - Shichang Zhang (myfirstname@cs.ucla.edu), office hours: Friday 10am-12pm @ BH 3551 Conference Room (May change to the TA office BH 3256 once it is open)
 
