@@ -51,7 +51,7 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 ## Tentative Schedule
 | Week | Date | Topic | Further Reading | Discussion Session| Homework| Course Project|
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| Week 0 |9/23 |Introduction [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/01Intro.pdf) and Know Your Data [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/02Data_Exploration.pdf)|||||
+| Week 0 |9/23 |Introduction [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/01Intro.pdf) and Know Your Data [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/02Data_Exploration.pdf)||[Slides](https://docs.google.com/presentation/d/1BUCid4CmI-5IOrvywBQ2EvDVrcw8I9YZ1qZj0ltWCC8/edit?usp=sharing)|||
 | Week 1 |9/28 |Linear Regression and Logistic Regression|||||
 | Week 1 |9/30 |Tree-based Models|||||
 | Week 2 |10/5 |Neural Networks |||||
