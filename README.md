@@ -49,9 +49,11 @@ This course introduces basic concepts, algorithms, and techniques of data mining
 For more information, please refer to the <a href="https://www.deanofstudents.ucla.edu/portals/16/documents/studentguide.pdf"> guidance </a>.
 
 ## Tentative Schedule
+*Book refers to: Jiawei Han, Micheline Kamber, and Jian Pei, Data Mining: Concepts and Techniques, 3rd edition.
+
 | Week | Date | Topic | Further Reading | Discussion Session| Homework| Course Project|
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| Week 0 |9/23 |Introduction [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/01Intro.pdf) and Know Your Data [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/02Data_Exploration.pdf)||[Slides](https://docs.google.com/presentation/d/1BUCid4CmI-5IOrvywBQ2EvDVrcw8I9YZ1qZj0ltWCC8/edit?usp=sharing)|||
+| ------- | ------ | ------ | -------- | ------ | ------ | ------ |
+| Week 0 |9/23 |Introduction [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/01Intro.pdf) and Know Your Data [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/02Data_Exploration.pdf)|<ul><li>Book Chapter 1, 2, 3</ki><li>[Review of probability from a course by David Blei](http://www.cs.princeton.edu/courses/archive/spring07/cos424/scribe_notes/0208.pdf) from Princeton U.</li><li>[Machine Learning Math Essentials](http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf) by Jeff Howbert from Washington U.</li><li>[http://cs229.stanford.edu/section/cs229-prob.pdf](http://cs229.stanford.edu/section/cs229-prob.pdf)</li><li>[Optimization](http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/optimization.pdf)|[Week0 Slides](https://docs.google.com/presentation/d/1BUCid4CmI-5IOrvywBQ2EvDVrcw8I9YZ1qZj0ltWCC8/edit?usp=sharing)</li></ul>|||
 | Week 1 |9/28 |Linear Regression and Logistic Regression|||||
 | Week 1 |9/30 |Tree-based Models|||||
 | Week 2 |10/5 |Neural Networks |||||
