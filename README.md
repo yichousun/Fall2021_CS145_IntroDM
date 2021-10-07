@@ -57,7 +57,7 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 1 |9/28 |Linear Regression [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/03Vector_Data_LinearR.pdf)|[https://cs229.stanford.edu/notes2021fall/cs229-notes1.pdf](https://cs229.stanford.edu/notes2021fall/cs229-notes1.pdf)||||
 | Week 1 |9/30 |Logistic Regression [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/04Vector_Data_LogisticR.pdf)|[https://cs229.stanford.edu/notes2021fall/cs229-notes1.pdf](https://cs229.stanford.edu/notes2021fall/cs229-notes1.pdf)|[Week 1 Slides](https://docs.google.com/presentation/d/1P8-sYYI4TJaGE5h9bodldNRIf2W0I5wQNSjxlneLan0/edit?usp=sharing)|HW1 Released||
 | Week 2 |10/5 |Tree-based Models [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/05Decision_Tree.pdf)|||||
-| Week 2 |10/7 |Neural Networks and Practical Issues of Classification|||HW1 Due (10/6 11:59pm)||
+| Week 2 |10/7 |Neural Networks [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/06NN.pdf) and Practical Issues of Classification|||HW1 Due (10/6 11:59pm)||
 | Week 3 |10/12|K-Means |||||
 | Week 3 |10/14|Mixture Models |||||
 | Week 4 |10/19 |Practical Issues of Clustering|||||
