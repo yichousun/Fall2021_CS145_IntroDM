@@ -61,15 +61,15 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 3 |10/12|Continue with Neural Networks|||||
 | Week 3 |10/14|Practical Issues of Classification [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/07Evaluation_Classification.pdf) and K-Means, Mixture Models |||||
 | Week 4 |10/19 |Practical Issues of Clustering|||||
-| Week 4 |10/21 |Set Data: Frequent Pattern Mining and Association Rules I |||||
-| Week 5 |10/26 |Set Data: Frequent Pattern Mining and Association Rules II |||||
-| Week 5 |10/28 |Sequence Data: Sequential Pattern Mining |||||
-| Week 6 |11/2 |Sequence Data: Dynamic Time Warping (DTW) |||||
+| Week 4 |10/21 |Text Data: Naive Bayes  |||||
+| Week 5 |10/26 |Text Data: Topic Models  |||||
+| Week 5 |10/28 |Time Series Data  |||||
+| Week 6 |11/2 |Set Data: Frequent Pattern Mining and Association Rules I |||||
 | Week 6 |11/4 |Midterm Exam |||||
-| Week 7 |11/9 |Time Series Data |||||
+| Week 7 |11/9 |Set Data: Frequent Pattern Mining and Association Rules II ||||| 
 | Week 7 |11/11 |**Veterans Day holiday (No Class)** |||||
-| Week 8 |11/16 |Text Data: Naive Bayes |||||
-| Week 8 |11/18 |Text Data: Topic Models |||||
+| Week 8 |11/16 |Sequence Data: Sequential Pattern Mining |||||
+| Week 8 |11/18 |Sequence Data: Dynamic Time Warping (DTW)  |||||
 | Week 9 |11/23 |Graph Data: Random Walk |||||
 | Week 9 |11/25 |**Thanksgiving holiday (No Class)** |||||
 | Week 10 |11/30 |Graph Data: Classification and Clustering |||||
