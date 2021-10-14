@@ -59,8 +59,8 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 2 |10/5 |Tree-based Models [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/05Decision_Tree.pdf)|<ul><li> Decision Tree: Book Chapter 8.1, 8.2</li><li>Regression Tree: [http://www.stat.cmu.edu/~cshalizi/350-2006/lecture-10.pdf](http://www.stat.cmu.edu/~cshalizi/350-2006/lecture-10.pdf)</li><li>Random Forest: [https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)</li></ul>||||
 | Week 2 |10/7 |Neural Networks [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/06NN.pdf)|<ul><li>http://neuralnetworksanddeeplearning.com/</li><li>http://www.deeplearningbook.org/</li></ul>|[Week 2 Slides](https://docs.google.com/presentation/d/12FAAfNWkOpdFq5E_x_iMHjp0j1qgMs1myUqZvnhOcG0/edit?usp=sharing)|HW1 Due (10/6 11:59pm)||
 | Week 3 |10/12|Continue with Neural Networks|||||
-| Week 3 |10/14|Practical Issues of Classification [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/07Evaluation_Classification.pdf) and K-Means, Mixture Models |||||
-| Week 4 |10/19 |Practical Issues of Clustering|||||
+| Week 3 |10/14|Practical Issues of Classification [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/07Evaluation_Classification.pdf) and K-Means [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/08ClusteringBasics.pdf) |||||
+| Week 4 |10/19 |Mixture Models and Practical Issues of Clustering|||||
 | Week 4 |10/21 |Text Data: Naive Bayes  |||||
 | Week 5 |10/26 |Text Data: Topic Models  |||||
 | Week 5 |10/28 |Time Series Data  |||||
