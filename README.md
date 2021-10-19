@@ -65,7 +65,7 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 5 |10/26 |Text Data: Topic Models  |||HW3 Due (10/25 11:59pm)||
 | Week 5 |10/28 |Time Series Data  |||||
 | Week 6 |11/2 |Set Data: Frequent Pattern Mining and Association Rules I |||||
-| Week 6 |11/4 |Midterm Exam |||||
+| Week 6 |11/4 |Midterm Exam |||| 11/7 Midterm Report Due|
 | Week 7 |11/9 |Set Data: Frequent Pattern Mining and Association Rules II ||||| 
 | Week 7 |11/11 |**Veterans Day holiday (No Class)** |||||
 | Week 8 |11/16 |Sequence Data: Sequential Pattern Mining |||||
@@ -73,5 +73,5 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 9 |11/23 |Graph Data: Random Walk |||||
 | Week 9 |11/25 |**Thanksgiving holiday (No Class)** |||||
 | Week 10 |11/30 |Graph Data: Classification and Clustering |||||
-| Week 10 |12/2 | TBD|||||
-| Week 11 |12/9 |Final Exam|||||
+| Week 10 |12/2 | TBD||||12/5 Kaggle Submission Stop|
+| Week 11 |12/9 |Final Exam||||12/10 Final Report Due|
