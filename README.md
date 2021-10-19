@@ -57,12 +57,12 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 1 |9/28 |Linear Regression [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/03Vector_Data_LinearR.pdf)|[https://cs229.stanford.edu/notes2021fall/cs229-notes1.pdf](https://cs229.stanford.edu/notes2021fall/cs229-notes1.pdf)||||
 | Week 1 |9/30 |Logistic Regression [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/04Vector_Data_LogisticR.pdf)|[https://cs229.stanford.edu/notes2021fall/cs229-notes1.pdf](https://cs229.stanford.edu/notes2021fall/cs229-notes1.pdf)|[Week 1 Slides](https://docs.google.com/presentation/d/1P8-sYYI4TJaGE5h9bodldNRIf2W0I5wQNSjxlneLan0/edit?usp=sharing)|HW1 Released||
 | Week 2 |10/5 |Tree-based Models [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/05Decision_Tree.pdf)|<ul><li> Decision Tree: Book Chapter 8.1, 8.2</li><li>Regression Tree: [http://www.stat.cmu.edu/~cshalizi/350-2006/lecture-10.pdf](http://www.stat.cmu.edu/~cshalizi/350-2006/lecture-10.pdf)</li><li>Random Forest: [https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm)</li></ul>||||
-| Week 2 |10/7 |Neural Networks [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/06NN.pdf)|<ul><li>http://neuralnetworksanddeeplearning.com/</li><li>http://www.deeplearningbook.org/</li></ul>|[Week 2 Slides](https://docs.google.com/presentation/d/12FAAfNWkOpdFq5E_x_iMHjp0j1qgMs1myUqZvnhOcG0/edit?usp=sharing)|HW1 Due (10/6 11:59pm)||
+| Week 2 |10/7 |Neural Networks [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/06NN.pdf)|<ul><li>http://neuralnetworksanddeeplearning.com/</li><li>http://www.deeplearningbook.org/</li></ul>|[Week 2 Slides](https://docs.google.com/presentation/d/12FAAfNWkOpdFq5E_x_iMHjp0j1qgMs1myUqZvnhOcG0/edit?usp=sharing)|HW1 Due (10/6 11:59pm), HW2 Released||
 | Week 3 |10/12|Continue with Neural Networks|||||
 | Week 3 |10/14|Practical Issues of Classification [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/07Evaluation_Classification.pdf) and K-Means [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/08ClusteringBasics.pdf) ||[Week 3 Slides](https://docs.google.com/presentation/d/14uC4g7JQJUX3OvyhTOufFK58vWVDT-tNqdyb6KhpKzQ/edit?usp=sharing)|||
-| Week 4 |10/19 |Mixture Models and Practical Issues of Clustering|||||
+| Week 4 |10/19 |Mixture Models and Practical Issues of Clustering|||HW2 Due (10/18 11:59pm), HW3 Released||
 | Week 4 |10/21 |Text Data: Naive Bayes  |||||
-| Week 5 |10/26 |Text Data: Topic Models  |||||
+| Week 5 |10/26 |Text Data: Topic Models  |||HW3 Due (10/25 11:59pm)||
 | Week 5 |10/28 |Time Series Data  |||||
 | Week 6 |11/2 |Set Data: Frequent Pattern Mining and Association Rules I |||||
 | Week 6 |11/4 |Midterm Exam |||||
