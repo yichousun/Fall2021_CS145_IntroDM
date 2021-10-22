@@ -61,7 +61,7 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 3 |10/12|Continue with Neural Networks|||||
 | Week 3 |10/14|Practical Issues of Classification [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/07Evaluation_Classification.pdf) and K-Means [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/08ClusteringBasics.pdf) |<ul><li>Book Chapter 8.5</li><li>Book Chapter 10.1-10.4</li><ul>|[Week 3 Slides](https://docs.google.com/presentation/d/14uC4g7JQJUX3OvyhTOufFK58vWVDT-tNqdyb6KhpKzQ/edit?usp=sharing)|||
 | Week 4 |10/19 |Mixture Models [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/09GMM.pdf) and Practical Issues of Clustering [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/10Evaluation_Clustering.pdf)|<ul><li>http://www.stat.cmu.edu/~cshalizi/350/lectures/29/lecture-29.pdf</li><li>http://www.cs.ubc.ca/~murphyk/Teaching/CS340-Fall06/reading/mixtureModels.pdf</li></ul>||HW2 Due (10/18 11:59pm), HW3 Released||
-| Week 4 |10/21 |Text Data: Naive Bayes [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/11Text_NB.pdf) |http://www.ccs.neu.edu/home/yzsun/classes/2014Fall_CS6220/Slides/NB.pdf||||
+| Week 4 |10/21 |Text Data: Naive Bayes [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/11Text_NB.pdf) |http://www.ccs.neu.edu/home/yzsun/classes/2014Fall_CS6220/Slides/NB.pdf|[Week 4 Slides](https://docs.google.com/presentation/d/1T2FwCWcP9SOHOV5cjdtykBWZ0lVtO8sbyLyMgixrfiI/edit?usp=sharing)|||
 | Week 5 |10/26 |Text Data: Topic Models  |||HW3 Due (10/25 11:59pm)||
 | Week 5 |10/28 |Time Series Data  |||||
 | Week 6 |11/2 |Set Data: Frequent Pattern Mining and Association Rules I |||||
