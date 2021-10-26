@@ -73,5 +73,5 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 9 |11/23 |Graph Data: Random Walk |||||
 | Week 9 |11/25 |**Thanksgiving holiday (No Class)** |||||
 | Week 10 |11/30 |Graph Data: Classification and Clustering |||||
-| Week 10 |12/2 | TBD||||12/5 Kaggle Submission Stop|
+| Week 10 |12/2 | Bias, Privacy, and Ethics||||12/5 Kaggle Submission Stop|
 | Week 11 |12/9 |Final Exam||||12/10 Final Report Due|
