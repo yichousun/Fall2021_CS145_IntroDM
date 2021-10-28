@@ -63,7 +63,7 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 4 |10/19 |Mixture Models [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/09GMM.pdf) and Practical Issues of Clustering [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/10Evaluation_Clustering.pdf)|<ul><li>http://www.stat.cmu.edu/~cshalizi/350/lectures/29/lecture-29.pdf</li><li>http://www.cs.ubc.ca/~murphyk/Teaching/CS340-Fall06/reading/mixtureModels.pdf</li></ul>||HW2 Due (10/18 11:59pm), HW3 Released||
 | Week 4 |10/21 |Text Data: Naive Bayes [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/11Text_NB.pdf) |http://www.ccs.neu.edu/home/yzsun/classes/2014Fall_CS6220/Slides/NB.pdf|[Week 4 Slides](https://docs.google.com/presentation/d/1T2FwCWcP9SOHOV5cjdtykBWZ0lVtO8sbyLyMgixrfiI/edit?usp=sharing)|||
 | Week 5 |10/26 |Text Data: Topic Models [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/12Text_TopicModel.pdf) |<ul><li>pLSA tutorial: http://arxiv.org/pdf/1212.3900.pdf</li><li>David Blei's ICML 2012 Tutorial: http://www.cs.columbia.edu/~blei/talks/Blei_ICML_2012.pdf</li></ul>||HW3 Due (10/25 11:59pm), HW4 Released||
-| Week 5 |10/28 |Time Series Data  |||||
+| Week 5 |10/28 |Time Series Data [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/13TimeSeries.pdf) |https://online.stat.psu.edu/stat510||||
 | Week 6 |11/2 |Set Data: Frequent Pattern Mining and Association Rules I |||||
 | Week 6 |11/4 |Midterm Exam |||HW4 Due| 11/7 Midterm Report Due|
 | Week 7 |11/9 |Set Data: Frequent Pattern Mining and Association Rules II ||||| 
