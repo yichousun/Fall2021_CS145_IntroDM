@@ -65,7 +65,7 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 5 |10/26 |Text Data: Topic Models [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/12Text_TopicModel.pdf) |<ul><li>pLSA tutorial: http://arxiv.org/pdf/1212.3900.pdf</li><li>David Blei's ICML 2012 Tutorial: http://www.cs.columbia.edu/~blei/talks/Blei_ICML_2012.pdf</li></ul>||HW3 Due (10/25 11:59pm), HW4 Released||
 | Week 5 |10/28 |Time Series Data [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/13TimeSeries.pdf) |https://online.stat.psu.edu/stat510| [Week 5 Slides](https://docs.google.com/presentation/d/1br0kuOuZGJl_GLJOi1X_bOVZvMkWhEqCJHefB1TDX0w/edit?usp=sharing)|||
 | Week 6 |11/2 |Continue with Time Series|||||
-| Week 6 |11/4 |Midterm Exam |||HW4 Due| 11/7 Midterm Report Due|
+| Week 6 |11/4 |Midterm Exam ||[Week 6 Slides](https://docs.google.com/presentation/d/1YI-Tb9HLKmdkstu2NUAXNR5hZPUlYHLHHk9-phsImo0/edit?usp=sharing)|HW4 Due| 11/7 Midterm Report Due|
 | Week 7 |11/9 |Set Data: Frequent Pattern Mining and Association Rules||||| 
 | Week 7 |11/11 |**Veterans Day holiday (No Class)** |||||
 | Week 8 |11/16 |Sequence Data: Sequential Pattern Mining |||||
