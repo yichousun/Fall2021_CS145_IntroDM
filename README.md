@@ -66,10 +66,10 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 5 |10/28 |Time Series Data [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/13TimeSeries.pdf) |https://online.stat.psu.edu/stat510| [Week 5 Slides](https://docs.google.com/presentation/d/1br0kuOuZGJl_GLJOi1X_bOVZvMkWhEqCJHefB1TDX0w/edit?usp=sharing)|||
 | Week 6 |11/2 |Continue with Time Series|||||
 | Week 6 |11/4 |Midterm Exam ||[Week 6 Slides](https://docs.google.com/presentation/d/1YI-Tb9HLKmdkstu2NUAXNR5hZPUlYHLHHk9-phsImo0/edit?usp=sharing)|HW4 Due| 11/7 Midterm Report Due|
-| Week 7 |11/9 |Set Data: Frequent Pattern Mining and Association Rules||||| 
+| Week 7 |11/9 |Set Data: Frequent Pattern Mining and Association Rules [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/14Set_Data.pdf)|Book Chapter 6|||| 
 | Week 7 |11/11 |**Veterans Day holiday (No Class)** |||||
-| Week 8 |11/16 |Sequence Data: Sequential Pattern Mining |||||
-| Week 8 |11/18 |Sequence Data: Dynamic Time Warping (DTW)  |||||
+| Week 8 |11/16 |Set Data: Frequent Pattern Mining and Association Rules (same as above) |Book Chapter 6||||
+| Week 8 |11/18 |Sequence Data: Sequential Pattern Mining  |[Book Chapter 8](http://web.cs.ucla.edu/~yzsun/classes/2019Winter_CS145/Slides/chapter_8_sequence.pdf)||||
 | Week 9 |11/23 |Graph Data: Random Walk |||||
 | Week 9 |11/25 |**Thanksgiving holiday (No Class)** |||||
 | Week 10 |11/30 |Graph Data: Classification and Clustering |||||
