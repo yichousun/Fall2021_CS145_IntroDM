@@ -69,7 +69,7 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 7 |11/9 |Set Data: Frequent Pattern Mining and Association Rules [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/14Set_Data.pdf)|Book Chapter 6|||| 
 | Week 7 |11/11 |**Veterans Day holiday (No Class)** |||||
 | Week 8 |11/16 |Set Data: Frequent Pattern Mining and Association Rules (same as above) |Book Chapter 6||||
-| Week 8 |11/18 |Sequence Data: Sequential Pattern Mining  |[Book Chapter 8](http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/chapter_8_sequence.pdf)||||
+| Week 8 |11/18 |Sequence Data: Sequential Pattern Mining  |[Book Chapter 8](http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/chapter_8_sequence.pdf)|[Week 8 Slides](https://docs.google.com/presentation/d/1gFY7aFcn6PfEkgtHMgCgK5r25zW5BMPqn8qCp9i5Xvo/edit#slide=id.gaefa49ad4b_2_45)|||
 | Week 9 |11/23 |Graph Data: Random Walk |||||
 | Week 9 |11/25 |**Thanksgiving holiday (No Class)** |||||
 | Week 10 |11/30 |Graph Data: Classification and Clustering |||||
