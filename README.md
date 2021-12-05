@@ -73,5 +73,5 @@ For more information, please refer to the <a href="https://www.deanofstudents.uc
 | Week 9 |11/23 |Sequence Data: Sequential Pattern Mining  [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/15Sequence_Data.pdf)|[Book Chapter 8](http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/chapter_8_sequence.pdf)|[Week 8 Slides](https://docs.google.com/presentation/d/1gFY7aFcn6PfEkgtHMgCgK5r25zW5BMPqn8qCp9i5Xvo/edit#slide=id.gaefa49ad4b_2_45)|||
 | Week 9 |11/25 |**Thanksgiving holiday (No Class)** |||||
 | Week 10 |11/30 |Graph Data: Random Walk [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/16Graph_RW.pdf), Classification and Clustering [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/17Graph_Spectral.pdf) ||[Week10 Slides](https://docs.google.com/presentation/d/1YCD4zu8uGe1RdVY2LTC3fRFL497zyg29vKzUqOdrHHI/edit?usp=sharing)|||
-| Week 10 |12/2 | Bias, Privacy, and Ethics||||12/5 Kaggle Submission Stop|
+| Week 10 |12/2 | Bias, Privacy, and Ethics [[Slides]](http://web.cs.ucla.edu/~yzsun/classes/2021Fall_CS145/Slides/18Ethics.pdf)||||12/5 Kaggle Submission Stop|
 | Week 11 |12/9 |Final Exam||||12/10 Final Report Due|
